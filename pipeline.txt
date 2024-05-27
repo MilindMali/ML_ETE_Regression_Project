@@ -1,0 +1,7 @@
+#first of all we will define variable in in constant folder
+
+#In config file we will write the code to connect all the code
+
+#then will code for data ingestion
+
+constant_file--> configuration file--> data ingestion
