@@ -1,7 +1,14 @@
-#first of all we will define variable in in constant folder
+#first of all we will define variable in constant folder
 
 #In config file we will write the code to connect all the code
 
 #then will code for data ingestion
 
 constant_file--> configuration file--> data ingestion
+
+#### data transformation##############33
+
+constant (here we will define some variable related to data transformation)
+    >>>>configuration (here we will connect the our file)
+            >>>>> data transformation(feature engineering steps)
+                    >>>>>utils file ( to create helper function)
